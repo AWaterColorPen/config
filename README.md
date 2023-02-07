@@ -4,7 +4,7 @@
 
 ## Introduction
 
-Config is a light pluggable dynamic config package without useless dependencies.
+Config is a lightweight pluggable dynamic config package without useless dependencies.
 Base on forked from [github.com/go-micro/go-micro/config](https://github.com/go-micro/go-micro/tree/master/config).
 
 ## Features
